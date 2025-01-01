@@ -8,7 +8,7 @@
 
 <a href="https://Levi1241.pythonanywhere.com/link">
   <img
-    src="https://Levi1241.pythonanywhere.com"
+    src="https://Levi1241.pythonanywhere.com?spin=true&scan=true&eq_color=790082&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
