@@ -5,7 +5,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liveeee7219&layout=compact&langs_count=20&card_width=320&theme=tokyonight&exclude_repo=monkey-mart" />
 </a>
-
 <a href="https://Levi1241.pythonanywhere.com/link">
   <img
     src="https://Levi1241.pythonanywhere.com?spin=true&scan=true&eq_color=790082&theme=dark"
