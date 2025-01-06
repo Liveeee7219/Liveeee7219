@@ -12,5 +12,5 @@
   />
 </a>
 <a href="https://open.spotify.com/user/31reiogpui6hub6uxdgxooco7b2m">
-  <img height=200 align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31reiogpui6hub6uxdgxooco7b2m" />
+  <img height=200 src="https://spotify-recently-played-readme.vercel.app/api?user=31reiogpui6hub6uxdgxooco7b2m" />
 </a>
